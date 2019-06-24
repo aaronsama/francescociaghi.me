@@ -19,6 +19,7 @@ gem "minima", github: "jekyll/minima"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "github-pages"
   gem "jekyll-feed", "~> 0.6"
   gem "octopress-debugger"
   gem "jekyll-paginate"
