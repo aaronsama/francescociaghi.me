@@ -1,0 +1,20 @@
+.grid-item.testimonial {
+  text-align: center;
+  margin: 48px 0;
+
+
+  img {
+    margin: auto;
+    max-width: $testimonialsImgSize;
+  }
+
+  .testimonial__text {
+    font-style: italic;
+    margin: 24px;
+    font-weight: 200;
+  }
+
+  .testimonial__name {
+    font-weight: 500; 
+  }
+}

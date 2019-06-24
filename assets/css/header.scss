@@ -1,0 +1,93 @@
+.site-nav {
+  border: none;
+  border-radius: 0;
+  font-size: 24px;
+  width: 100%;
+  height: calc(100% - 50px);
+  background: transparent;
+
+  a,
+  a:visited {
+    color: white;
+  }
+
+  input ~ .trigger {
+    height: 100%;
+    background-color: $green;
+    display: block;
+    transition: all 100ms ease-in-out;
+  }
+}
+
+.site-header {
+  background: $green;
+  height: 300px;
+
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
+  h1.site-title {
+    font-size: 3rem;
+    line-height: 1;
+    margin-top: 75px;
+
+    a {
+      text-decoration: none;
+      color: white;
+    }
+
+    small {
+      font-size: 1.5rem;
+      font-style: italic;
+      line-height: 1;
+    }
+  }
+
+  .contacts {
+    color: white;
+
+    a {
+      color: white;
+      text-decoration: none;
+      display: inline-block;
+      margin-right: 12px;
+    }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .site-header h1.site-title {
+    font-size: 32px;
+    margin-top: 56px;
+
+    small {
+      font-size: 22px;
+    }
+  }
+
+  .site-header .contacts {
+    margin-top: 20px;
+
+    p {
+      line-height: 24px;
+    }
+
+    a {
+      display: block;
+      width: 100%;
+    }
+  }
+
+  .site-nav input ~ .trigger {
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+  }
+
+  .site-nav input:checked ~ .trigger {
+    opacity: 1;
+    height: 100%;
+  }
+}

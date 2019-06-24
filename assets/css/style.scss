@@ -1,0 +1,19 @@
+---
+---
+
+@import "minima";
+
+@import "./variables.scss";
+
+@import "./shared.scss";
+@import "./header.scss";
+@import "./grid.scss";
+@import "./header.scss";
+@import "./call_to_action.scss";
+@import "./testimonials.scss";
+@import "./icons_summary.scss";
+
+i.social-icon {
+  font-size: 16px;
+  padding: 5px 2px 4px 2px;
+}

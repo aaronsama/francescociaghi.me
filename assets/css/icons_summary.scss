@@ -1,0 +1,18 @@
+.icons-summary {
+  margin: 40px 0;
+
+  .icon-wrapper {
+    text-align: center;
+
+    .icon-header {
+      font-size: 24px;
+      font-weight: 500;
+      margin: 12px 0;
+    }
+
+    img {
+      width: $iconsSummaryImgSize;
+      margin: auto;
+    }
+  }
+}
