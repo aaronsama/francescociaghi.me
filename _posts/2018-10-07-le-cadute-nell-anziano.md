@@ -15,6 +15,6 @@ categories: aggiornamenti
     </p>
   </div>
   <div class="grid-item grid-item--thin">
-    <img src="{{ "/assets/images/docenza.jpeg" | relative_url }}"/>
+    <img src="{{ "assets/images/docenza.jpeg" | relative_url }}"/>
   </div>
 </div>

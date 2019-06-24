@@ -11,12 +11,12 @@ Seguo gli atleti durante gli allenamenti e in studio per poter garantire un **se
 
 <div class="grid">
   <div class="grid-item">
-    <img src="{{ "/assets/images/thunders1.jpg" | relative_url }}" />
+    <img src="{{ "assets/images/thunders1.jpg" | relative_url }}" />
   </div>
   <div class="grid-item">
-    <img src="{{ "/assets/images/thunders2.jpg" | relative_url }}" />
+    <img src="{{ "assets/images/thunders2.jpg" | relative_url }}" />
   </div>
   <div class="grid-item">
-    <img src="{{ "/assets/images/thunders3.jpg" | relative_url }}" />
+    <img src="{{ "assets/images/thunders3.jpg" | relative_url }}" />
   </div>
 </div>

@@ -10,14 +10,14 @@ Questo mese ho seguito il Beast Mode Camp di Imola come Fisioterapista dell’ev
 
 <div class="grid">
   <div class="grid-item">
-    <img src="{{ site.base_url }}/assets/images/imola-1.jpg">
+    <img src="{{ site.base_url }}assets/images/imola-1.jpg">
   </div>
   <div class="grid-item column">
     <div class="grid-item">
-      <img src="/assets/images/imola-2.jpg">
+      <img src="assets/images/imola-2.jpg">
     </div>
     <div class="grid-item">
-      <img src="/assets/images/imola-3.jpg">
+      <img src="assets/images/imola-3.jpg">
     </div>
   </div>
 </div>
