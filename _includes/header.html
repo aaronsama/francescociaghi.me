@@ -1,9 +1,13 @@
-<header class="site-header">
+{%- assign default_paths = site.pages | map: "path" -%}
+{%- assign page_paths = site.header_pages | default: default_paths -%}
+{%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 
+<header class="site-header">
+  <div class="logo-wrapper">
+    <img src="{{ "assets/images/logo.png" | relative_url }}" />
+  </div>
+  
   <div class="wrapper">
-    {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.header_pages | default: default_paths -%}
-    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <h1 class="site-title">
       <a class="site-title__home-link" rel="author" href="{{ "/" | relative_url }}">
         dott. Francesco Ciaghi<br>
