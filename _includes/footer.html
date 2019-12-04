@@ -11,23 +11,21 @@
           </li>
           {%- if site.email -%}
           <li>
-            <i class="fas fa-envelope"></i> <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+            <i class="fas fa-envelope fa-fw"></i> <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
             </li>
           {%- endif -%}
           {%- if site.phone -%}
           <li>
-            <i class="fas fa-phone"></i> <a href="tel:{{ site.phone }}">{{ site.phone }}</a>
+            <i class="fab fa-whatsapp fa-fw"></i> <a href="https://wa.me/{{ social.whatsapp }}">{{ site.phone }}</a>
           </li>
           {%- endif -%}
           {%- if site.address -%}
           <li>
-            <i class="fas fa-map-marker-alt"></i> {{ site.address }}
-          </li>
-          <li>
-            <iframe width="100%" height="200" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q={{ site.address }}&key=AIzaSyDPudQzzfRg_ZrLIjUew7qEzrkGZM_4J48" allowfullscreen></iframe>
+            <i class="fas fa-map-marker-alt fa-fw"></i> {{ site.address }}
           </li>
           {%- endif -%}
         </ul>
+        <iframe width="100%" height="200" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q={{ site.address }}&key=AIzaSyDPudQzzfRg_ZrLIjUew7qEzrkGZM_4J48" allowfullscreen></iframe>
       </div>
 
       <div class="footer-col one-half">
