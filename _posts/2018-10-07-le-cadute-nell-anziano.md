@@ -2,7 +2,7 @@
 layout: post
 title:  Le cadute nell'anziano - il superamento alla contenzione e il trattamento delle fratture di femore
 date:   2018-10-07 12:00:00 +0200
-categories: aggiornamenti
+categories: aggiornamenti, docenze
 ---
 
 <div class="grid">
