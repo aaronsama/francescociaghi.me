@@ -1,7 +1,7 @@
 ---
 title: In Studio
 layout: page
-permalink: /in_studio/
+permalink: /in-studio/
 ---
 
 Nella prima seduta verrete valutati in studio dopo un'attenta anamnesi della vostra situazione personale, in modo da poter strutturare le sedute riabilitative nel modo più personalizzato possibile.
