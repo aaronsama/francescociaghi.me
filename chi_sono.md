@@ -4,6 +4,8 @@ title: Chi sono
 permalink: /chi-sono/
 ---
 
+Ho conseguito la laurea in Fisioterapia presso la sede di Rovereto dell'Università degli Studi di Verona.
+
 Attratto dall'ambito sportivo ho subito iniziato a lavorare come libero professionista, lavorando in studio e con squadre sportive: in questo momento sto seguendo i Thunders Trento (football americano) e il Trento Calcio (calcio a 11 eccellenza).
 
 Oltre al lavoro in ambito sportivo seguo diversi pazienti con problematiche Neurologiche per il mantenimento delle capacità motorie e/o per la ripresa delle funzionalità in seguito agli eventi acuti.

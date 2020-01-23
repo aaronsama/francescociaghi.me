@@ -1,16 +1,23 @@
 <h1 class="text-center">Fisioterapista sportivo a Rovereto</h1>
 
-<div class="grid icons-summary">
-  <div class="grid-item icon-wrapper">
-    <img src="{{ "assets/images/icons/in-studio.png" | relative_url }}" />
-    <h5 class="icon-header">In Studio</h5>
+<div class="grid icons-summary__wrapper">
+  <div class="grid-item text-center">
+    <img src="{{ "assets/images/profilo.png" | relative_url }}" />
   </div>
-  <div class="grid-item icon-wrapper">
-    <img src="{{ "assets/images/icons/a-domicilio.png" | relative_url }}" />
-    <h5 class="icon-header">A Domicilio</h5>
-  </div>
-  <div class="grid-item icon-wrapper">
-    <img src="{{ "assets/images/icons/sport.png" | relative_url }}" />
-    <h5 class="icon-header">Società Sportive</h5>
+  <div class="grid-item grid-item--thin icons-summary__icons">
+    <div class="icons-summary__icons-wrapper">
+      <a href="/in_studio" class="icon-wrapper">
+        <img src="{{ "assets/images/icons/in-studio.png" | relative_url }}" />
+        <h5 class="icon-header">In Studio</h5>
+      </a>
+      <a href="/a_domicilio" class="icon-wrapper">
+        <img src="{{ "assets/images/icons/a-domicilio.png" | relative_url }}" />
+        <h5 class="icon-header">A Domicilio</h5>
+      </a>
+      <a href="/sport" class="icon-wrapper">
+        <img src="{{ "assets/images/icons/sport.png" | relative_url }}" />
+        <h5 class="icon-header">Per lo sport</h5>
+      </a>
+    </div>
   </div>
 </div>

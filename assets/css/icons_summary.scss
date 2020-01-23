@@ -1,11 +1,19 @@
-.icons-summary {
+.icons-summary__wrapper {
   margin: 40px 0;
+}
+
+.grid-item.icons-summary__icons {
+  flex-basis: 20%;
+}
+
+.icons-summary__icons-wrapper {
+  text-align: center;
 
   .icon-wrapper {
     text-align: center;
 
     .icon-header {
-      font-size: 24px;
+      font-size: 18px;
       font-weight: 500;
       margin: 12px 0;
     }
@@ -14,5 +22,15 @@
       width: $iconsSummaryImgSize;
       margin: auto;
     }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .icons-summary__icons-wrapper {
+    display: flex;
+  }
+
+  .icon-wrapper {
+    flex: 1 1 33.3%;
   }
 }

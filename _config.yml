@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: dott. Francesco Ciaghi - Fisioterapista sportivo, Certified Mulligan Practitioner
-email: info@francescociaghi.me
+email: ft.francescociaghi@gmail.com
 phone: 346/3969863 
 address: Corso Rosmini 53/2, Rovereto (TN)
 description: >- # this means to ignore newlines until "baseurl:"
