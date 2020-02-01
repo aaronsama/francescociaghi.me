@@ -17,6 +17,7 @@
 
   input ~ .trigger {
     height: 54px;
+    text-align: center;
     line-height: 54px;
     background-color: $green;
     display: block;
@@ -27,6 +28,7 @@
 
 .site-header {
   background: $green;
+  padding-bottom: 16px;
 
   .wrapper {
     display: flex;
@@ -68,10 +70,6 @@
 
   .contacts {
     color: white;
-
-    p {
-      margin-bottom: 15px;
-    }
 
     a {
       color: white;
