@@ -9,6 +9,23 @@ layout: home
 {% include index/icons_summary.html %}
 
 
+## Trattamenti
+
+* **Ortopedico:** post-chirurgico, post traumatico;
+* **Disturbi della colonna:** mal di schiena, dolori e problematiche cervicali;
+* **Sportivi:** massaggio sportivo, bendaggio funzionale, kinesio-taping, programmi di ripresa motoria/sportiva post-infortunio;
+* **Preventivi:** esercizi di rinforzo e prevenzione dei vari distretti;
+* **Geriatrici:** assistenza, educazione e cura della persona;
+* **Neurologici:** riabilitazione e presa in carico del paziente con disturbi neurologici.
+
+Le tecniche usate e gli esercizi proposti sono sempre supportati dall’evidenza scientifica (Evidence Based Practice EBP. I diversi approcci utilizzati vengono sempre esposti ai pazienti in modo da renderli attivamente partecipi nel trattamento riabilitativo.
+
+
+<div>
+  {%- include call_to_action.html -%}
+</div>
+
+
 ## Valutazione
 
 Durante la prima seduta fisioterapica verrete valutati per individuare le cause del problema: vi verranno poste delle semplici domande rispetto ai vostri sintomi ed alla vostra storia medica. Tutto quello che comunicherete rimarrà strettamente confidenziale.
@@ -33,24 +50,6 @@ Sono qualificato in diversi ambiti riabilitativi:
 * **Riabilitazione della colonna:** trattamenti volti a recuperare la mobilità e la stabilità della colonna vertebrale, ridurre i dolori conseguenti a patologie specifiche (ernie discali, protrusioni, dolori aspecifici) tramite approcci di terapia manuale e funzionale.
 
 Anche al di fuori delle sedute sarò a disposizione per domande e dubbi rispetto alla vostra condizione.
-
-
-<div>
-  {%- include call_to_action.html -%}
-</div>
-
-
-## Trattamenti
-
-* **Ortopedico:** post-chirurgico, post traumatico;
-* **Disturbi della colonna:** mal di schiena, dolori e problematiche cervicali;
-* **Sportivi:** massaggio sportivo, bendaggio funzionale, kinesio-taping, programmi di ripresa motoria/sportiva post-infortunio;
-* **Preventivi:** esercizi di rinforzo e prevenzione dei vari distretti;
-* **Geriatrici:** assistenza, educazione e cura della persona;
-* **Neurologici:** riabilitazione e presa in carico del paziente con disturbi neurologici.
-
-Le tecniche usate e gli esercizi proposti sono sempre supportati dall’evidenza scientifica (Evidence Based Practice EBP. I diversi approcci utilizzati vengono sempre esposti ai pazienti in modo da renderli attivamente partecipi nel trattamento riabilitativo.
-
 
 
 {% include index/testimonials.html %}
