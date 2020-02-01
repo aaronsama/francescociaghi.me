@@ -14,7 +14,7 @@
   {%- if social.youtube_channel -%}<li><a href="https://www.youtube.com/channel/{{ social.youtube_channel | cgi_escape | escape }}" title="{{ social.youtube_channel_name | escape | default: 'YouTube' }}"><svg class="svg-icon grey"><use xlink:href="{{ 'assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg></a></li>{%- endif -%}
   {%- if social.whatsapp -%}
   <li>
-    <a href="https://wa.me/{{ social.whatsapp }}" title="{{ social.whatsapp | cgi_escape }}">
+    <a href="{{ social.whatsapp }}" title="{{ social.whatsapp | cgi_escape }}">
       <i class="fab fa-whatsapp fa-fw social-icon grey"></i>
     </a>
   </li>
