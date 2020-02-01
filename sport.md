@@ -29,3 +29,11 @@ Collaborazioni sportive:
 <div>
   {%- include call_to_action.html -%}
 </div>
+<div class="grid">
+  <div class="grid-item">
+    <img src="{{ "assets/images/thunders1.jpg" | relative_url }}" />
+  </div>
+  <div class="grid-item">
+    <img src="{{ "assets/images/imola-4.png" | relative_url }}" />
+  </div>
+</div>

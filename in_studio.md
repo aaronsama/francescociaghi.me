@@ -14,3 +14,11 @@ Il trattamento sarà scelto seguendo i criteri riabilitativi e scientifici più 
 <div>
   {%- include call_to_action.html -%}
 </div>
+<div class="grid">
+  <div class="grid-item">
+    <img src="{{ "assets/images/studio/studio1.jpg" | relative_url }}" />
+  </div>
+  <div class="grid-item">
+    <img src="{{ "assets/images/studio/studio2.jpg" | relative_url }}" />
+  </div>
+</div>
