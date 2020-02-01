@@ -1,4 +1,10 @@
-body { font-family: sans-serif; }
+body { 
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+h1:not(:first-child) {
+  margin-top: 24px;
+}
 
 .text-center {
   text-align: center;

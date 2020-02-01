@@ -52,12 +52,10 @@ Anche al di fuori delle sedute sarò a disposizione per domande e dubbi rispetto
 Le tecniche usate e gli esercizi proposti sono sempre supportati dall’evidenza scientifica (Evidence Based Practice EBP. I diversi approcci utilizzati vengono sempre esposti ai pazienti in modo da renderli attivamente partecipi nel trattamento riabilitativo.
 
 
-<!-- {% include index/in_studio_o_a_domicilio.md %} -->
+
+{% include index/testimonials.html %}
+
 
 <div>
   {%- include call_to_action.html -%}
 </div>
-
-<!-- {% include index/per_lo_sport.md %} -->
-
-{% include index/testimonials.html %}
