@@ -55,12 +55,15 @@
       text-decoration: none;
       color: white;
     }
+  }
 
-    small {
-      font-size: 1.5rem;
-      font-style: italic;
-      line-height: 1;
-    }
+  h2.site-subtitle {
+    color: white;
+    font-size: 1.5rem;
+    font-style: italic;
+    line-height: 1;
+    margin: .5rem 0;
+    font-weight: 300;
   }
 
   .contacts {
@@ -190,5 +193,19 @@
     #menu-icon:after {
         bottom: -10px;
     }
+  }
+}
+
+@media screen and (max-width: 419px) {
+  .site-header .logo-wrapper {
+    display: none;
+  }
+
+  .site-header h1.site-title {
+    font-size: 28px;
+  }
+
+  .site-header h2.site-subtitle {
+    font-size: 16px;
   }
 }

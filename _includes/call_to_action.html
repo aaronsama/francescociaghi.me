@@ -1,15 +1,15 @@
 <div class="call-to-action">
   <h1>Contattami</h1>
 
-  <ul>
-    <li>
-      <i class="fas fa-envelope fa-fw"></i> <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-    </li>
-    <li>
-      <i class="fab fa-whatsapp fa-fw"></i> <a href="tel:{{ site.phone }}">{{ site.phone }}</a>
-      <a href="https://wa.me/{{ social.whatsapp }}" title="WhatsApp">
-        <i class="fab fa-whatsapp fa-fw"></i>
-      </a>
-    </li>
-  </ul>
+  <div class="grid">
+    <div class="grid-item call-to-action__button">
+      <a class="u-email" href="mailto:{{ site.email }}"><i class="fas fa-envelope fa-fw"></i> Scrivimi</a>
+    </div>
+    <div class="grid-item call-to-action__button">
+      <a href="tel:{{ site.phone }}"><i class="fas fa-phone fa-flip-horizontal fa-fw"></i> Chiamami</a>
+    </div>
+    <div class="grid-item call-to-action__button">
+      <a href="https://wa.me/{{ social.whatsapp }}"><i class="fab fa-whatsapp fa-fw"></i> WhatsApp</a>
+    </div>
+  </div>
 </div>
