@@ -17,7 +17,9 @@ Successivamente, tra il 2018 ed il 2019, ho conseguito il certificato di _Mullig
 Da gennaio 2019 ho iniziato un percorso di specializzazione (Master di I livello) presso l'Università degli studi di Siena inerente alla Fisioterapia Applicata allo Sport, percorso che ultimerò nel corso del 2020.
 
 
-
+<div>
+  {%- include call_to_action.html -%}
+</div>
 <div class="grid">
   <div class="grid-item text-center">
     <img src="{{ "assets/images/chi_sono/chi_sono1.png" | relative_url }}" />

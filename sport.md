@@ -6,8 +6,6 @@ permalink: /sport
 
 Il fisioterapista è il professionista sanitario che si occupa di valutare e trattare le disfunzioni nelle aree della motricità ([https://aifi.net/professione/profilo-professionale/](https://aifi.net/professione/profilo-professionale/)). Per questo motivo la sua presenza in campo, durante una competizione o un allenamento, risulta di grande importanza, soprattutto negli sport da contatto fisico, come il football americano.
 
-
-
 **Prima di ogni allenamento** e partita è compito del fisioterapista valutare i giocatori della squadra, per accertarsi che scendano in campo nella migliore delle condizioni.
 
 **Durante il match** avrà il delicato compito di osservare le dinamiche di gioco e di contatto, in modo da essere più rapido. La formazione sanitaria associata alla conoscenza sportiva permettono al fisioterapista di lavorare in sinergia con la squadra, aiutandola a ridurre gli infortuni e a riabilitare giocatori infortunati.
