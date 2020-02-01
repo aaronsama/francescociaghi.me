@@ -9,8 +9,12 @@
 }
 
 @media (max-width: 799px) {
-  .page-content .wrapper {
-    border: none;
+  .page-content {
+    padding: 0;
+
+    .wrapper {
+      border: none;
+    }
   }
 }
 
