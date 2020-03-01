@@ -18,7 +18,7 @@ layout: home
 * **Geriatrici:** assistenza, educazione e cura della persona;
 * **Neurologici:** riabilitazione e presa in carico del paziente con disturbi neurologici.
 
-Le tecniche usate e gli esercizi proposti sono sempre supportati dall’evidenza scientifica (Evidence Based Practice EBP. I diversi approcci utilizzati vengono sempre esposti ai pazienti in modo da renderli attivamente partecipi nel trattamento riabilitativo.
+Le tecniche usate e gli esercizi proposti sono sempre supportati dall’evidenza scientifica (Evidence Based Practice EBP). I diversi approcci utilizzati vengono sempre esposti ai pazienti in modo da renderli attivamente partecipi nel trattamento riabilitativo.
 
 
 <div>
